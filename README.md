@@ -59,7 +59,7 @@ python3 --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/custom-wordlist-generator.git
+git clone https://github.com/hardeep12341/custom-wordlist-generator.git
 ```
 
 Navigate to the project:
